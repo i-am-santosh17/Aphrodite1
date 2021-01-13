@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aphrodite</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="quote_string">You have the right to perform your action, the fruit of action is not in your hand</string>
+    <string name="hello">Hello</string>
+    <string name="hint_subject">Subject...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Subject not saved because it is empty.</string>
+    <string name="title_activity_third_main">ThirdMainActivity</string>
+    <string name="second_activity">Today\'s Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello fragment</string>
+    <string name="this_week">This Week</string>
+</resources>
